@@ -1637,7 +1637,8 @@ header .header-logo a {
 	background: #151515;
 	width: 100%;
 	height: 100%;
-	background-image: url(../images/intro-bg.jpg);
+	/* background-image: url(../images/intro-bg.jpg); */
+	background-image: url(../images/1.jpg);
 	background-repeat: no-repeat;
 	background-position: center;
 	-webkit-background-size: cover;
@@ -1954,6 +1955,7 @@ header .header-logo a {
 	background: #EBEBEB;
 	width: 50%;
 	background-image: url(../images/profile-bg.jpg);
+	/* background-image: url(../images/8.jpg); */
 	background-repeat: no-repeat;
 	background-position: center;
 	-webkit-background-size: cover;
@@ -2765,7 +2767,8 @@ header .header-logo a {
  * ------------------------------------------------------------------- */
 #contact {
 	background-color: #111111;
-	background-image: url(../images/profile-bg.jpg);
+	/* background-image: url(../images/profile-bg.jpg); */
+	background-image: url(../images/8.1.jpeg);
 	background-repeat: no-repeat;
 	background-position: center;
 	-webkit-background-size: cover;
