@@ -104,7 +104,7 @@
 							<h3 class="animate-intro">Hello, There.</h3>
 							<h1 class="animate-intro">
 								I'm Wong Yew Lee, <br>
-								your candidate for <br>
+								Your candidate for <br>
 								Campus Wide Representative.
 							</h1>
 
