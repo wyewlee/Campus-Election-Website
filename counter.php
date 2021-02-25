@@ -273,7 +273,7 @@ else
 ?>
 <div style="width:150px;">
    <div style="border:1px solid #000000;padding:2px;width:100%;font-size:80%;font-weight:bold;">
-      Visitor Statistics
+      <img src="counter.gif" width="16" height="16" border="0" /> Visitor Statistics
    </div>
 
    <div style="border:1px solid #000000;padding:2px;width:100%;font-size:80%;">
@@ -288,5 +288,6 @@ else
 
    <div style="border:1px solid #000000;padding:2px;width:100%;font-size:80%;">
       Record: <?php echo $record; ?> (<?php echo date("d.m.Y", $record_time) ?>)
+      <div style="font-size:75%;" align="center"><a href="http://www.free-php-counter.com" target="_blank">Free PHP Counter</a></div>
    </div>
 </div>
