@@ -1123,6 +1123,11 @@
    <script src="js/plugins.js"></script>
    <script src="js/main.js"></script>
 
+	<!-- PHP Counter -->
+	<?php include "counter.php"; ?>
+
+
+
 </body>
 
 </html>
