@@ -193,7 +193,7 @@ p.lead {
 	font-family: "montserrat-regular", sans-serif;
 	font-size: 2rem;
 	line-height: 1.8;
-	color: #4f4f4f;
+	color: #fafafa;
 	margin-bottom: 3.6rem;
 }
 
@@ -2798,7 +2798,7 @@ header .header-logo a {
 }
 
 #contact .section-intro p.lead {
-	color: rgba(255, 255, 255, 0.3);
+	color: rgba(255, 255, 255, 0.842);
 }
 
 /* contact form */
@@ -2984,7 +2984,7 @@ header .header-logo a {
 }
 
 .contact-info p {
-	color: #555;
+	color: rgb(255, 255, 255);
 }
 
 .contact-info .collapse {
